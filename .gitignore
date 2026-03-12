@@ -1,0 +1,17 @@
+# PDF files (论文文件)
+*.pdf
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Logs
+*.log
