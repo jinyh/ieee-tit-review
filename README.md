@@ -28,10 +28,10 @@
 - **Suggestions** (可选改进): 进一步提升论文质量
 
 #### 四阶段工作流程
-1. **初步筛选** (30 分钟): 快速判断是否符合基本要求
-2. **详细评审** (5-6 小时): 深入评审各个方面
-3. **撰写报告** (1-2 小时): 生成结构化评审报告
-4. **复审流程** (3-4 小时): 评估修订版
+1. **初步筛选**: 快速判断是否符合基本要求
+2. **详细评审**: 深入评审各个方面
+3. **撰写报告**: 生成结构化评审报告
+4. **复审流程**: 评估修订版
 
 ### 目录结构
 
@@ -87,9 +87,9 @@
 - **总大小**: 约 280 KB
 - **总字数**: 约 85,000 字（中英双语）
 - **检查清单项目**: 465+ 项
-- **预计评审时间**:
-  - 快速检查: 30-45 分钟
-  - 详细评审: 6-8 小时
+- **评审模式**:
+  - 快速评审: 25 项核心检查
+  - 标准评审: 465+ 项完整检查
 
 ### 版本信息
 
@@ -155,10 +155,10 @@ A professional review tool for IEEE Transactions on Information Theory (IEEE TIT
 - **Suggestions** (optional): Further improvements
 
 #### Four-Stage Workflow
-1. **Initial Screening** (30 min): Quick assessment
-2. **Detailed Review** (5-6 hours): In-depth evaluation
-3. **Report Writing** (1-2 hours): Generate structured report
-4. **Re-review** (3-4 hours): Evaluate revised version
+1. **Initial Screening**: Quick assessment
+2. **Detailed Review**: In-depth evaluation
+3. **Report Writing**: Generate structured report
+4. **Re-review**: Evaluate revised version
 
 ### Usage
 
@@ -187,13 +187,13 @@ A professional review tool for IEEE Transactions on Information Theory (IEEE TIT
 - **Total size**: ~280 KB
 - **Total words**: ~85,000 words (bilingual)
 - **Checklist items**: 465+ items
-- **Estimated review time**:
-  - Quick check: 30-45 minutes
-  - Detailed review: 6-8 hours
+- **Review modes**:
+  - Quick review: 25 core checks
+  - Standard review: 465+ full checks
 
 ### Version
 
-- **Current version**: v1.1.0
+- **Current version**: v1.2.0
 - **Created**: 2026-03-12
 - **Last updated**: 2026-03-12
 - **Language**: Chinese-English bilingual
