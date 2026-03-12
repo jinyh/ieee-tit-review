@@ -86,14 +86,14 @@
 - **总文件数**: 16 个 Markdown 文件
 - **总大小**: 约 280 KB
 - **总字数**: 约 85,000 字（中英双语）
-- **检查清单项目**: 225+ 项
+- **检查清单项目**: 465+ 项
 - **预计评审时间**:
   - 快速检查: 30-45 分钟
   - 详细评审: 6-8 小时
 
 ### 版本信息
 
-- **当前版本**: v1.1.0
+- **当前版本**: v1.2.0
 - **创建日期**: 2026-03-12
 - **最后更新**: 2026-03-12
 - **语言**: 中英双语
@@ -186,7 +186,7 @@ A professional review tool for IEEE Transactions on Information Theory (IEEE TIT
 - **Total files**: 16 Markdown files
 - **Total size**: ~280 KB
 - **Total words**: ~85,000 words (bilingual)
-- **Checklist items**: 225+ items
+- **Checklist items**: 465+ items
 - **Estimated review time**:
   - Quick check: 30-45 minutes
   - Detailed review: 6-8 hours
