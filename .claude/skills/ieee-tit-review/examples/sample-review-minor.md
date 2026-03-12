@@ -304,7 +304,7 @@
 
 ## 评审统计 / Review Statistics
 
-- **评审完成时间 / Review Completion Time**: 6 小时
+- **评审完成状态 / Review Completion Status**: 已完成所有检查清单
 - **论文页数 / Paper Length**: 12 页
 - **Major Issues 数量**: 0 个
 - **Minor Issues 数量**: 6 个
@@ -312,7 +312,7 @@
 
 ---
 
-**评审人签名 / Reviewer Signature**: [匿名]
+**评审模式 / Review Mode**: 标准评审
 **评审日期 / Review Date**: 2026-03-12
 
 ---

@@ -570,5 +570,6 @@ Copyright © 2026 IEEE. Personal use of this material is permitted. However, per
 
 ---
 
-**检查人**: [姓名]
+**评审模式**: [标准评审 / 快速评审]
+**检查完成度**: [已检查项数 / 总项数]
 **检查日期**: [YYYY-MM-DD]

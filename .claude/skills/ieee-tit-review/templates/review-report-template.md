@@ -307,7 +307,7 @@
 
 ## 评审统计 / Review Statistics
 
-- **评审完成时间 / Review Completion Time**: [X 小时]
+- **评审完成状态 / Review Completion Status**: [已完成所有检查清单 / Completed all checklists]
 - **论文页数 / Paper Length**: [X 页]
 - **Major Issues 数量**: [X 个]
 - **Minor Issues 数量**: [X 个]
@@ -315,7 +315,7 @@
 
 ---
 
-**评审人签名 / Reviewer Signature**: [可选]
+**评审模式 / Review Mode**: [标准评审 / 快速评审]
 **评审日期 / Review Date**: [YYYY-MM-DD]
 
 ---
